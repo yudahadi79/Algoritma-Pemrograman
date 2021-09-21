@@ -1,0 +1,12 @@
+#Latihan Kedua
+
+print("Haloooo")
+print("selamat datang")
+print("ini yuda")
+print('menghitung luas ruangan')
+p=float(input("berapa panjang ruangan: "))
+l=float(input("berapa lebar ruangan: "))
+x=input('masukkan satuan meter/inci: ')
+L=p*l
+print('luas ruangan dengan panjang' , p , 'lebar' , l , 'adalah', L,x,'persegi' )
+print('thank you')
