@@ -29,4 +29,4 @@ print('jumlah sisa pembagian dari hasil a dibagi b adalah: ',sisa)
 print('hasil a pangkat b adalah: ',pangkat)
 print('hasil dari log(a) adalah: ',(math.log10(a)))
 
-Print('thank you')
+print('thank you')
