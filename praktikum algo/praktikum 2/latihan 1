@@ -1,0 +1,32 @@
+"""
+Nama : Yuda Hadi Prasetyo
+NIM : 065002100004
+Jurusan Sistem Informasi
+Algoritma dan pemrograman 
+Praktikum 2 
+27 september 2021
+"""
+#Latihan Pertama
+
+print("Haloooo")
+print("ini yuda")
+print('selamat datang di program perhitungan bilangan bulat')
+
+a=float(input("Masukkan nilai a: "))
+b=float(input("Masukkan nilai b: "))
+jumlah = a+b
+selisih = a-b
+kali = a*b
+sisa = a%b
+pembagian = a/b
+pangkat = a**b
+import math
+print('jumlah a ditambah b adalah: ',jumlah )
+print('selisih antara a dan b adalah: ',selisih)
+print('jumlah a dikali b adalah: ',kali)
+print('jumlah a dibagi b adalah: ',pembagian)
+print('jumlah sisa pembagian dari hasil a dibagi b adalah: ',sisa)
+print('hasil a pangkat b adalah: ',pangkat)
+print('hasil dari log(a) adalah: ',(math.log10(a)))
+
+Print('thank you')
