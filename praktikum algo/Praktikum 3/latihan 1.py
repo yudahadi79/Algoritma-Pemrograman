@@ -1,3 +1,4 @@
+"""
 Nama : Yuda Hadi Prasetyo
 NIM : 065002100004
 Jurusan Sistem Informasi
@@ -21,13 +22,13 @@ if (a==b==c):
 elif (a==b) or (a==c) or (b==c):
     print("ini termasuk dalam segitiga sama kaki ")
 
-elif (m.pow(a,2)) and (m.pow(b,2) and (m.pow(c,2))) :
-    print('ini termasuk dalam segitiga siku-siku')
-
-elif (a+(b+1)+(c+2)) :
-    print("ini bukan termasuk segitiga")
+if (m.pow(c,2)==m.pow(a,2)+m.pow(b,2)):
+    print('ini termasuk dalam segitiga siku-siku') 
+       
+elif (a+b<=c) or (a+c<=b) or (b+c<=a) :
+    print("ini bukan termasuk dalam segitiga ")
     
 else :
-    print('ini termasuk dalam segitiga sembarang')
+    print('ini  termasuk dalam segitiga sembarang ')
 
-print('Terima kasih')
+print('Terima kasih telah menggunakan program ini ')
