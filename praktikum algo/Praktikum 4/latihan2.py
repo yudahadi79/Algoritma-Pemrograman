@@ -4,7 +4,7 @@ NIM : 065002100004
 Jurusan Sistem Informasi
 Algoritma dan pemrograman 
 Praktikum 4 
-11 Oktober 2021
+13 Oktober 2021
 """
 #Latihan Kedua
 Bulan,Tahun,tidak=0,0,0
