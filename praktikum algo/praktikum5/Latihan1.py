@@ -33,13 +33,13 @@ while (n != "") :
     elif (n== 'B-'):
         print ("nilai = 2.75")
         total += 2.75
-    elif (n == "c+"):
+    elif (n == "C+"):
         print ("nilai = 2.50")
         total += 2.50
-    elif (n == "c"):
+    elif (n == "C"):
         print ("nilai = 2.00")
         total += 2.00
-    elif (n == "c-"):
+    elif (n == "C-"):
         print ("nilai = 1.75")
         total += 1.75
     elif (n == "D"):
