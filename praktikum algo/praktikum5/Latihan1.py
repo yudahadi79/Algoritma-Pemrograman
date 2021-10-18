@@ -14,7 +14,7 @@ total = 0
 c = 0
 
 while (n != "") :
-    n = str(input("masukkan nilai :"))
+    n = str(input("Masukkan nilai dengan huruf :"))
     c = c + 1
     if (n == ''):
         break ;
