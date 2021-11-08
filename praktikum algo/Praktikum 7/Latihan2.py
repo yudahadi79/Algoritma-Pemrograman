@@ -15,7 +15,7 @@ def jumlahhari (Bulan=0,Tahun=0):
  while (Bulan):
   Bulan+=Bulan
   Bulan = int(input('Masukkan bulan(1-12): '))
-  if(Bulan >=13) and not Bulan ==0 :
+  if(Bulan >=13) or not Bulan ==0 :
     print('Masukkan bulan yang benar!!')
     print('Tekan 0 untuk memberhentikan program ')
     
