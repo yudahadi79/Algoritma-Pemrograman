@@ -1,4 +1,4 @@
-#Latihan pertama
+#Latihan kedua
 import pandas as pd
 #Import dataset
 df = pd.read_csv("C:/Users/Yuda Hp/Praktikum algo/Negara.csv")
